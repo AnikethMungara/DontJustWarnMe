@@ -88,8 +88,7 @@ Please ensure proposed changes follow existing style conventions and include tes
 
 ## License
 
-This project is currently unlicensed. Usage, modification, and distribution are permitted, but no warranties are provided. If broader public use is intended, consider adding a standard open-source license (e.g., MIT or Apache-2.0).
-
+This project is currently unlicensed. Usage, modification, and distribution are permitted, but no warranties are provided. 
 ## About the Author
 
 **Aniketh Mungara**  
